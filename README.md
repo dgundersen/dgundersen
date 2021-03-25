@@ -1,4 +1,5 @@
-### Hi there 👋
+#### Full stack Python and .NET developer with 20+ years experience.
+
 
 <!--
 **dgundersen/dgundersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
